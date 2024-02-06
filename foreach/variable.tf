@@ -15,7 +15,7 @@ variable "instance_names" {
   }
 }
 variable "ami_id" {
-    default = "ami-03265a0778a880afb"
+    default = "ami-0f3c7d07486cad139"
 }
 variable "zone_id" {
     type = string
