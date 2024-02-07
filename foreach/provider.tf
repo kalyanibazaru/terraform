@@ -9,7 +9,7 @@ terraform {
     bucket = "daws76sbk-remote-state"
     key    = "foreach"
     region = "us-east-1"
-    dynamodb_table = "daws76s-locking"
+    dynamodb_table = "daws76sbk-locking"
   }
 }
 
